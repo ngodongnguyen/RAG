@@ -1,3 +1,0 @@
-Vector database giúp tìm kiếm ngữ nghĩa.
-Weaviate hỗ trợ semantic search và lưu vector.
-Embedding biến văn bản thành vector số.
